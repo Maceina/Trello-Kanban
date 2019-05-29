@@ -1,0 +1,6 @@
+﻿T210B036 Kompiuterinė konstrukcijų analizė;Grybaitis;Grybas;EEZ-6/2
+T210B164 Mechaninių sistemų projektavimo pagrindai;Janišauskaitė;Janina;IFF-7/1
+T130B033 Kompiuterinis projektavimas 1;Grybaitis;Grybas;EEZ-6/2
+S192B003 Apskaitos pagrindai;Knieselytė;Viktorija;TBC-7/2
+S181B001 Mokesčiai ir apmokestinimas;Janišauskaitė;Janina;IFF-7/1
+W200B103 Vartotojų patyrimų dizainas;Grybaitis;Grybas;EEZ-6/2

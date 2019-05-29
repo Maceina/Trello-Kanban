@@ -1,0 +1,108 @@
+﻿S191B458 Turizmo marketingas 6
+S191B108 Paslaugų marketingas 6
+S190B143 Vertės kūrimo grandinės	6
+S190B005 Intelektinė nuosavybė	6
+S186B126 Tarptautinė ekonomika	6
+S186B001 Tarptautinė logistika	6
+S189B155 Žmonių išteklių vadyba	6
+S190B174 Darbuotojų išlaikymas	6
+S185B001 Tarptautinis verslas	6
+S189B186 Pardavimų valdymas	6
+T120B168 Interaktyvios interneto technologijos	6
+T120B129 Informacinių technologijų sauga	6
+P175B129 Išskirstytosios duomenų bazės	3
+T120B143 Įmonių kompiuterinių sistemų kūrimo platformos	3
+P175B156 Išmaniųjų įrenginių programavimas	6
+T120B169 Išmaniosios mobiliosios sistemos ir programėlių kūrimas	6
+T120B162 Programų sistemų testavimas	6
+P170B012 Komandiniu darbu grindžiamas informacinių sistemų kūrimas	3
+P170B126 Informacinių sistemų grafinė vartotojo sąsaja	6
+T120B166 Žaidimų ir interaktyviųjų programėlių kūrimas	6
+P176B101 Intelektikos pagrindai	6
+P175B524 Programavimas Java	6
+T120B001 Dizaino elementai kompiuterinėje grafikoje	6
+T120B108 Multimedijos kūrimo elementai	3
+T240B124 Erdvinio projektavimo pagrindai	3
+T230B414 Individualioji statyba	6
+H313B103 Architektūros teorija	6
+T240B125 Pastatų architektūra ir konstrukcijos	6
+T230B157 Statybos pagrindai	3
+T230B160 Gaisrinė sauga	3
+T230B169 Statiniai ir aplinkosauga	3
+H310B123 Architektūros istorija	6
+T230B012 Statybos projektų valdymo pagrindai	3
+H130B111 Retorikos laboratorija	6
+H150B010 Kino filosofija	6
+H150B100 Kultūros filosofija	6
+H360B125 Technologijų ir inovacijų terminologija	6
+S110B001 Teisės įvadas	6
+S110B010 Teisės pagrindai	3
+S263B010 Lyderystės pagrindai	6
+S263B090 Bendravimo psichologija	6
+H130B110 Audiovizualinė laboratorija	6
+H360B124 Akademinis rašymas	3
+S273B003 Sveikos gyvensenos pagrindai	6
+S265B107 Dalykinė komunikacija	3
+S273B011 Fizinis aktyvumas ir sveikata	6
+H004B102 Akademinis rašymas	6
+H320B109 Audiovizualinio meno istorija	6
+H570B008 Verslo kalba (anglų kalba)	6
+S114B254 Verslo teisė	6
+H004B100 Techninis ir profesinis rašymas ir redagavimas	6
+H004B101 Viešasis kalbėjimas	6
+H460B119 Prancūzų kalba (A1 lygiu)	6
+H460B330 Prancūzų kalba (A2 lygiu)	6
+H460B430 Prancūzų kalba (B1 lygiu)	6
+H460B530 Prancūzų kalba (B2 lygiu)	6
+P190B104 Statybinė fizika	6
+H460B630 Prancūzų kalba (C1 lygiu)	6
+H480B102 Italų kalba (A1 lygiu)	6
+H480B103 Italų kalba (A2 lygiu)	6
+H480B105 Italų kalba (B1 lygiu)	6
+H480B104 Italų kalba (B2 lygiu)	6
+H490B107 Ispanų kalba (A1 lygiu)	6
+H490B001 Ispanų kalba (A2 lygiu)	6
+H490B010 Ispanų kalba (B1 lygiu)	6
+H490B100 Ispanų kalba (B2 lygiu)	6
+H490B101 Ispanų kalba (C1 lygiu)	6
+H595B010 Rusų kalba (A2 lygiu)	6
+H595B127 Rusų kalba (A1 lygiu)	6
+H595B011 Rusų kalba (B1 lygiu)	6
+H595B002 Rusų kalba (B2 lygiu)	6
+H595B103 Rusų kalba (C1 lygiu)	6
+H530B119 Vokiečių kalba (A1 lygiu)	6
+H530B320 Vokiečių kalba (A2 lygiu)	6
+H530B420 Vokiečių kalba (B1 lygiu)	6
+H530B520 Vokiečių kalba (B2 lygiu)	6
+H530B101 Vokiečių kalba (C1 lygiu)	6
+T490B107 Įvadas į biotechnologijas	3
+T350B117 Tvariosios inžinerijos principai	3
+T350B132 Apsauga nuo korozijos ir erozijos	3
+T270B118 Užterštų teritorijų tvarkymas	6
+B007B100 Fiziologijos ir anatomijos pagrindai	6
+T410B219 Vaistų formų technologija	6
+T270B127 Žiedinė ekonomika ir teisė	6
+T490B104 Genų inžinerija	3
+T390B010 Plastikai ir elastomerai	3
+T270B120 Fizinė aplinkos tarša	3
+P160B010 Matematiniai sistemų modeliai	6
+P001B206 Taikomoji matematika	6
+P170B009 Skaitiniai metodai	6
+P170B111 Kriptologija	6
+P110B001 Grafų teorija	6
+P160B103 Duomenų analizė	6
+P160B116 Optimizavimo metodai	6
+P190B005 Klasikinė mechanika	6
+T150B210 Modernios optikos reiškiniai ir nanofotonika	6
+T155B145 Magnetinės medžiagos ir spintronika	6
+P240B001 Vakuumo fizika ir technika	3
+P260B001 Medžiagų fizika	6
+T150B016 Medžiagų mokslo įvadas	3
+P230B202 Fizika 2	6
+P190B001 Termodinamika ir statistinė fizika	6
+T125B103 Jutikliai	3
+T140B114 Modernioji elektros energetika	6
+T001B100 Modernios elektronikos technologijos	3
+T125B107 Valdymo technologijos	6
+T001B001 Elektronika šalia mūsų	6
+T240B708 Dizaino pagrindai	3

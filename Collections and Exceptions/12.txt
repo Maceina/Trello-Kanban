@@ -1,0 +1,9 @@
+LDD_12. E-laiðkai. Kataloge registruojama elektroninio paðto perdavimo á kitus serverius
+informacija. Atskiruose failuose saugoma laiðkø, kiekvienà dienà persiunèiamø á tam tikrà serverá (turi
+vardà), informacija. Failo pirmoje eilutëje yra dienos data ir serverio á kurá perduoti laiðkai, vardas.
+Kitose eilutëse yra persiøstø laiðkø informacija: laikas, siuntëjo adresas, gavëjo adresas, laiðko dydis
+baitais. Taip pat viename faile yra serveriø sàsajos su internetu greitis: serverio vardas ir greitis
+(baitais/s). Sudaryti sàraðus serveriø, á kuriuos nebuvo perduota nei vieno baito, kurios nors valandos
+bëgyje. Turëdami perdavimo pradþios laikà, jûs galite suskaièiuoti, kada perdavimas buvo baigtas.
+Jeigu perdavimas baigtas kitoje valandoje, tai joje taip pat buvo perduota informacija. Sàraðe: serveris,
+diena ir valandos (surasti visas), kuriomis jis neperdavë nei vieno baito. Rûðiuoti pagal serverá ir dienà.

@@ -1,0 +1,16 @@
+﻿smtp.1and1.com;54009120
+mail.adelphia.net;10000000
+mailhost.worldnet.att.net;22229332
+smtp.comcast.net;8922011
+smtp.aol.com;14009120
+smtpsecure.emailworx.net;50009120
+smtp.west.cox.net;12309120
+smtp.gmail.com;61909120
+smtp.live.com;9099132
+smtp.mac.com;44000010
+smtp.email.msn.com;11252430
+smtp.isp.netscape.com;3250120
+smtp.prodigy.net;7621230
+smtp.snet.yahoo.com;18923120
+smtp.sbcglobal.yahoo.com;23123530
+smtp.rediffmailpro.com;11111111

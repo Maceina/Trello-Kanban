@@ -1,0 +1,16 @@
+﻿T390B010 Plastikai ir elastomerai;Griaudūnaitė;Giedrė;TM-7/2
+P160B010 Matematiniai sistemų modeliai;Kazlauskas;Kazys;IFZ-6/3
+P001B206 Taikomoji matematika;Morkūnas;Morkius;MGMT-6
+P170B009 Skaitiniai metodai;Karoliūtė;Karolina;EVM-5/1
+P170B111 Kriptologija;Saulaitis;Saulius;EVM-7
+P110B001 Grafų teorija;Morkūnas;Morkius;MGMT-6
+P160B103 Duomenų analizė;Kazlauskas;Kazys;IFZ-6/3
+T155B145 Magnetinės medžiagos ir spintronika;Minelgaitė;Milda;TBC-5/2
+P240B001 Vakuumo fizika ir technika;Griaudūnaitė;Giedrė;TM-7/2
+P260B001 Medžiagų fizika;Minelgaitė;Milda;TBC-5/2
+T150B016 Medžiagų mokslo įvadas;Griaudūnaitė;Giedrė;TM-7/2
+P230B202 Fizika 2;Griaudūnaitė;Giedrė;TM-7/2
+P190B001 Termodinamika ir statistinė fizika;Griaudūnaitė;Giedrė;TM-7/2
+T125B103 Jutikliai;Vytautaitė;Vytautė;EEZ-7
+T001B001 Elektronika šalia mūsų;Vytautaitė;Vytautė;EEZ-7
+T240B708 Dizaino pagrindai;Minelgaitė;Milda;TBC-5/2
