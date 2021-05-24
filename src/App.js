@@ -9,7 +9,7 @@ const defaultBackground = {
   color: "pink",
   image: "none",
 };
-//12
+//1
 const backgroundStorage = JSON.parse(
   window.localStorage.getItem("dataBackground")
 );
