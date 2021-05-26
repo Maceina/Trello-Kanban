@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+*,
+button,
+input {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  font-family: Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+li {
+  list-style: none;
+}
+
+@media (max-width: 1199.98px) {
+  html {
+    font-size: 93.75%;
+  }
+}
+
+@media (max-width: 767.98px) {
+  html {
+    font-size: 87.5%;
+  }
+}

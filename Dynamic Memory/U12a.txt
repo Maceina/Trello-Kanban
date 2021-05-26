@@ -1,6 +1,0 @@
-﻿T210B036 Kompiuterinė konstrukcijų analizė;Gaurius;Mindaugas;IFA-5/1
-T210B164 Mechaninių sistemų projektavimo pagrindai;Janišauskaitė;Janina;IFF-7/1
-T130B033 Kompiuterinis projektavimas 1;Dovydaitis;Aurimas;IFZ-6/3
-S192B003 Apskaitos pagrindai;Knieselytė;Viktorija;TBC-7/2
-S181B001 Mokesčiai ir apmokestinimas;Bukvilitytė;Kamilė;MGMT-6/1
-W200B103 Vartotojų patyrimų dizainas;Grybaitis;Grybas;EEZ-6/2
